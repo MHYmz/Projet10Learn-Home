@@ -39,4 +39,4 @@ https://www.figma.com/design/HsB9WqzxsUcpTeDV2VYjZu/Maquette-Learn%40Home?node-i
 
 4. Le tableau Kanban :
 Le tableau Kanban a été réalisé via Notion. Voici le lien pour accéder au tableau :
-https://www.notion.so/16569162ba83806eb6c0dcff4a6b9f26?v=16569162ba8381b3bdd6000c4c3543ef&pvs=4
+https://www.notion.so/16569162ba83806eb6c0dcff4a6b9f26?v=16569162ba8381b3bdd6000c4c3543ef&pvs=4](https://thunder-scilla-53f.notion.site/16569162ba83806eb6c0dcff4a6b9f26?v=16569162ba8381b3bdd6000c4c3543ef
